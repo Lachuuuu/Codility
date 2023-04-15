@@ -8,15 +8,11 @@ public class PermCheck {
    }
 
    public static int solution(int[] A){
-      Set<Integer> values = new TreeSet<>();
+      Arrays.sort(A);
+      int next = 0;
       for (int element : A) {
-         values.add(element);
-      }
-      if(values.size() != A.length) return 0;
-      int last = 0;
-      for (Integer value : values) {
-         last++;
-         if(!(value == last)) return 0;
+         next++;
+         if(element != next) return 0;
       }
       return 1;
    }
