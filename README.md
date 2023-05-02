@@ -17,7 +17,7 @@
 [PassingCars](https://github.com/Lachuuuu/Codility/blob/main/Lessons/5.PassingCars/PassingCars.java)  
 [CountDiv](https://github.com/Lachuuuu/Codility/blob/main/Lessons/5.CountDiv/CountDiv.java)  
 [GenomicRangeQuery](https://github.com/Lachuuuu/Codility/blob/main/Lessons/5.GenomicRangeQuery/GenomicRangeQuery.java)  
-MinAvgTwoSlice  
+[MinAvgTwoSlice](https://github.com/Lachuuuu/Codility/blob/main/Lessons/5.MinAvgTwoSlice/MinAvgTwoSlice.java)  
 # 6. Sorting
 [Distinct](https://github.com/Lachuuuu/Codility/blob/main/Lessons/6.Distinct/Distinct.java)  
 [MaxProductOfThree](https://github.com/Lachuuuu/Codility/blob/main/Lessons/6.MaxProductOfThree/MaxProductOfThree.java)  
