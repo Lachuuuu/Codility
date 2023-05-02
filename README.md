@@ -26,7 +26,7 @@ NumberOfDiscIntersections
 # 7. Stacks and Queues
 [Brackets](https://github.com/Lachuuuu/Codility/blob/main/Lessons/7.Brackets/Brackets.java)  
 Fish  
-Nesting   
+[Nesting](https://github.com/Lachuuuu/Codility/blob/main/Lessons/7.Nesting/Nesting.java)    
 [StoneWall](https://github.com/Lachuuuu/Codility/blob/main/Lessons/7.StoneWall/StoneWall.java)  
 # 8. Leader
 [Dominator](https://github.com/Lachuuuu/Codility/blob/main/Lessons/8.Dominator/Dominator.java)  
